@@ -1,4 +1,4 @@
-# APOL-BENCH: Learned Sentence-Level Compression for RAG
+# APOL: Learned Sentence-Level Compression for RAG
 
 APOL-BENCH is a framework for evaluating sentence-level compression strategies in Retrieval-Augmented Generation (RAG) pipelines. The project compares heuristic retrieval-based pruning methods with a learned compression controller to study the impact of context reduction on open-domain question answering.
 
